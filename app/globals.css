@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  color: var(--primary-white) !important;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.rb {
+  border: 1px solid red;
+}
+
+.gb {
+  border: 1px solid limegreen;
+}
+
+.bb {
+  border: 1px solid blue;
+}
