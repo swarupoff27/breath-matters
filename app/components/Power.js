@@ -25,8 +25,8 @@ export default function Power() {
         <div className="w-[100%] md:w-[70%] bg-[#e6f2f2] ">
           <div className="mb-[40px] px-[20px] pt-[20px] md:px-[60px] md:pt-[40px]">
             <p className="text-[#000000]">
-              Your breathing isn't just about oxygen in and carbon dioxide
-              out-it's a complex behavior shaped by triggers, habits, and
+              Your breathing isn&apos;t just about oxygen in and carbon dioxide
+              out-it&apos;s a complex behavior shaped by triggers, habits, and
               physiology. When misaligned, these habits can:
             </p>
           </div>
@@ -93,8 +93,9 @@ export default function Power() {
 
           <div class="text-[#ffffff] bg-teal-800 px-[20px] md:px-[60px] py-[24px] text-[14px]">
             Millions of people suffer the consequences of poor breathing habits.
-            But you don't have to be one of them. With the CapnoTrainer® GO,
-            you'll unlock a scientifically-backed pathway to breathing mastery.
+            But you don&apos;t have to be one of them. With the CapnoTrainer®
+            GO, you&apos;ll unlock a scientifically-backed pathway to breathing
+            mastery.
           </div>
         </div>
       </div>

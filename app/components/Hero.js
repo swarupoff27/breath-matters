@@ -31,7 +31,7 @@ export default function Hero() {
               Breathe Smarter, Live Better
             </h2>
             <p className="max-w-[800px] w-[100%] text-[16px] text-white/90">
-              Breathing is more than just an unconscious action—it's a
+              Breathing is more than just an unconscious action—it&apos;s a
               foundation of health, performance, and emotional well-being. But
               what if your breathing habits are silently holding you back? Enter
               the CapnoTrainer® GO, the groundbreaking tool that merges science,
