@@ -29,7 +29,7 @@ export default function SuccessStories() {
               className="bg-white rounded-lg overflow-hidden shadow-md  flex flex-col items-center text-center"
             >
               <p className="text-teal-800 font-bold bg-teal-50 border-[2px] shadow-lg  p-6 border-teal-800 rounded-lg">
-                "{testimonial.quote}"
+                &quot;{testimonial.quote}&quot;
               </p>
               <div className="flex items-center">
                 <div className="relative rounded-[50%] w-12 h-12 mr-1 bg-[#e6f2f2]"></div>
