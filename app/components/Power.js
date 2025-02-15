@@ -12,12 +12,12 @@ export default function Power() {
         </h2>
       </div>
       <div className="flex flex-col md:flex-row max-w-[1200px] w-[100%] mx-auto  ">
-        <div className=" flex justify-center w-[100%] md:w-[30%]  ">
+        <div className="flex justify-center max-w-[456px] w-[100%]">
           <Image
             src="/girl-breathing.png"
             alt="CapnoTrainer GO Device"
-            className="max-w-[356px] w-[100%] h-[auto]"
-            width={356}
+            className="max-w-[456px] w-[100%] h-[auto]"
+            width={456}
             height={264}
           />
         </div>

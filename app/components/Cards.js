@@ -24,8 +24,8 @@ const features = [
 export default function Cards() {
   return (
     <section className="w-full bg-[#f0f7f7] py-16 md:py-24">
-      <div className="container mx-auto px-4">
-        <h2 className="mb-12 text-center">
+      <div className="container flex flex-col items-center justify-center mx-auto px-4">
+        <h2 className="mb-12 ttext-center">
           <span className="block text-lg font-medium text-gray-600">
             EXPERIENCE THE
           </span>
