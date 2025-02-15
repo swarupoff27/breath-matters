@@ -9,7 +9,7 @@ export default function SuccessStories() {
     },
     {
       quote:
-        "As a therapist, the CapnoTrainer® GO has completely transformed how I work with clients. It’s a game-changer in helping people tackle anxiety and performance issues.",
+        "As a therapist, the CapnoTrainer® GO has completely transformed how I work with clients. It&apos;s a game-changer in helping people tackle anxiety and performance issues.",
       name: "Dr. Michael J",
       title: "Clinical Psychologist",
       image: "/path-to-michael-image.png", // Replace with the actual image path
